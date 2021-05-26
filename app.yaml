@@ -1,4 +1,4 @@
-runtime: ruby
+runtime: ruby27
 env: standard
 entrypoint: bundle exec ruby src/app.rb
 
