@@ -1,6 +1,6 @@
 runtime: ruby27
 env: standard
-entrypoint: bundle exec ruby src/app.rb
+entrypoint: bundle exec ruby app/app.rb
 
 manual_scaling:
   instances: 1
