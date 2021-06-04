@@ -1,3 +1,7 @@
+---
+title: Chris Inch
+---
+
 ## Chris Inch
 
 Life-long learning and collector of hobbies.
